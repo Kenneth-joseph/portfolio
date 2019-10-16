@@ -1,0 +1,105 @@
+*{
+    margin:0%;
+    padding: 0%;
+    /* font-style:; */
+    /* font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    /* font-family: sans-serif; */
+    /* font-family: monospace; */
+    /* font-family: cursive; */
+    /* font-family: fantasy; */
+    /* font-family: system-ui; */
+    /* font-family: emoji; */
+    /* font-family: math; */
+    /* font-family: fangsong;  */
+}
+
+
+ nav ul {
+     list-style: none;
+     padding: 0%;
+     margin: 0%;
+     display: flex;
+     justify-content: flex-end;
+     background-color:whitesmoke;
+     width: 100%;
+     overflow: hidden; 
+     margin: 0 auto; 
+     position:relative; 
+     z-index: 100;
+ }
+
+ nav ul li{
+     padding: 15px 15px;
+     margin: 12px 10px;
+     
+     
+ }
+
+ nav ul li a{
+    text-decoration: none;
+    color: black;
+    border: 2px solid white;
+    border-radius:200px;
+    border-right-width: 6px;
+    -webkit-border-bottom-right-radius: 46px;
+    -moz-border-bottom-right-radius: 46px;
+    /* -webkit-border-radius: 200px; */
+    /* -moz-border-radius:200px; */
+    padding: 10px;  
+     }
+
+nav a:active{
+        color:black;
+      }
+    
+a:visited{
+        color:burlywood;
+    }
+
+nav a:hover{
+    background-color:white;
+
+    }
+      
+
+
+
+/*head*/
+
+#head{
+      
+      margin-top:100px;
+}
+h1{
+    border: 2px solid burlywood;
+    width: 27%;
+    text-align:center;
+    margin:0 auto;
+    border-radius:200px;
+    border-right-width: 6px;
+    padding:5px;
+    background-color:gray;
+    opacity:0.7;
+
+}
+
+ 
+ .image-cropper {
+
+    width: 400px;
+    height: 400px;
+    margin-top:200px;
+    display: block;
+    position: relative; 
+    border: 2px solid white;
+    -webkit-border-radius: 200px;
+    -moz-border-radius:200px;
+    border-radius:200px;
+    overflow:hidden;
+    margin: 100px auto;  }
+
+.my-picture {
+    display: block;
+    height: auto;
+    width: 100%;
+}
