@@ -80,6 +80,7 @@ h1{
     padding:5px;
     background-color:gray;
     opacity:0.7;
+    color: white;
 
 }
 
@@ -102,4 +103,13 @@ h1{
     display: block;
     height: auto;
     width: 100%;
+}
+
+/*about*/
+#page{
+ margin-left: 20px;
+ color: white;
+ padding-top: 30px;
+ font-family:sans-serif;
+ text-align: justify;
 }
