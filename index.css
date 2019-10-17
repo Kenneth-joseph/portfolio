@@ -108,31 +108,30 @@ h1{
     width: 100%;
 }
 
+
+
+
+
 /*about*/
 #page{
  margin-left: 20px;
  color: white;
  padding-top: 30px;
- /* font-family:sans-serif; */
- text-align: justify;
+ text-align: center;
  font-size: 20px;
 }
 
 #first{
 color:white;
-/* float: left; */
-/* font-family: Georgia; */
 font-size: 60px;
 line-height: 60px;
-padding-top: 2px;
-padding-right: 0px;
-padding-left: 3px;}
+}
 
 h3{
     border: 2px solid burlywood;
     width: 27%;
     text-align:center;
-    margin-left:80px;
+    margin: 0 auto;
     border-radius:200px;
     border-right-width: 6px;
     padding:5px;
@@ -143,21 +142,26 @@ h3{
 
 #edu{
     margin-top: 40px;
-    padding: 15px;
+    padding: 15px;  
 }
 #study li{
     margin-left: 70px;
     margin-top: 20px;
     text-decoration-line: underline;
-    font-size: 17px;}
+    font-size: 17px;
+    text-align: center;
+    list-style: none;
+}
+
 
 ul p,#one{
-    text-align: justify;
-    margin-left: 20px;
+    /* text-align: justify; */
+    /* margin-left: 20px;*/
     font-size: 18px;
     margin-top: 10px;
-    /* font-family:sans-serif; */
+    margin-left: 285px;
     color: white;
+    display:inline-block;
     }
 
 ul {
@@ -165,14 +169,30 @@ padding:15px;
 }
 
 .job{
-    text-align: justify;
-    margin-left: 20px;
+    /* text-align: justify; */
+    margin-left: 285px;
     font-size: 18px;
     margin-top: 10px;
     /* font-family:sans-serif; */
     color: white;
-    padding:15px;
+    padding:20px;
+    display: inline-block;
 }
+
+ .job p{
+     padding:5px;
+ }
+
+.jobb{
+    margin-left: 290px;
+    font-size: 18px;
+    margin-top: 10px;
+    color: white;
+    padding:20px;
+}
+ .jobb li{
+    padding: 5px;
+ }
 
 
 
