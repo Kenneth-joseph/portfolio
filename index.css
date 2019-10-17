@@ -108,6 +108,17 @@ h1{
     width: 100%;
 }
 
+.info ul{
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    color:white;
+    font-style: oblique;
+
+}
+.info ul li{
+    padding: 10px;
+}
 
 
 
