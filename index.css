@@ -228,10 +228,13 @@ padding:15px;
      display: inline-block;
      color: white;
      font-size: 18px;
+     border-right: 1px dotted white;
+     /* border-style: dotted; */
  }
  .container img{
      padding-top: 20px;
      margin-bottom: 10px;
+     /* border:2px solid grey; */
  }
 
  .container1{
@@ -247,11 +250,15 @@ padding:15px;
 
  .container1 img{
     padding-top: 20px;
+    /* border:2px solid grey;    */
+    margin-bottom: 10px;
 }
 #point1{
     padding-top: 40px;
     display: inline-block;
     color: white;
     font-size: 18px;
+    border-right: 1px dotted white;
+    
 }
  
