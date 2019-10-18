@@ -204,6 +204,22 @@ padding:15px;
     padding: 5px;
  }
 
+ /*portfolio*/
 
+ .container{
+     display: flex;
+     justify-content: space-evenly;
+     margin-top: 80px;
+     border:1px solid whitesmoke;
+     width: 80%;
+     margin:0 auto;
+ }
 
+ #point{
+     padding-top: 40px;
+     display: inline-block;;
+ }
+ .container img{
+     padding-top: 20px;
+ }
  
