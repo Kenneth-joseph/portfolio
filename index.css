@@ -209,17 +209,42 @@ padding:15px;
  .container{
      display: flex;
      justify-content: space-around;
-     margin-top: 80px;
+     /* margin-top: 80px; */
      border:1px solid whitesmoke;
      width: 80%;
      margin:0 auto;
+     margin-top: 20px;
  }
 
  #point{
      padding-top: 40px;
-     display: inline-block;;
+     display: inline-block;
+     color: white;
+     font-size: 18px;
  }
  .container img{
      padding-top: 20px;
+     margin-bottom: 10px;
  }
+
+ .container1{
+    display: flex;
+     justify-content: space-around;
+     /* margin-top: 80px; */
+     border:1px solid whitesmoke;
+     width: 80%;
+     margin:0 auto;
+     margin-top: 20px;
+     
+ }
+
+ .container1 img{
+    padding-top: 20px;
+}
+#point1{
+    padding-top: 40px;
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+}
  
