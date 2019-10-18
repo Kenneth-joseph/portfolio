@@ -208,7 +208,7 @@ padding:15px;
 
  .container{
      display: flex;
-     justify-content: space-evenly;
+     justify-content: space-around;
      margin-top: 80px;
      border:1px solid whitesmoke;
      width: 80%;
