@@ -10,13 +10,22 @@
      margin: 0%;
      display: flex;
      justify-content: flex-end;
-     background-color:whitesmoke;
+     /* background-color:whitesmoke; */
      width: 100%;
      overflow: hidden; 
      margin: 0 auto; 
      position:relative; 
      z-index: 100;
+     background-image:url("see.jpeg");
+     background-repeat:no-repeat;
+     background-size: cover;
+     background-position: center;
+     height: 60vh;
+     filter:contrast(100%);
+     filter: brightness(100%);
  }
+
+ 
 
  nav ul li{
      padding: 15px 15px;
@@ -27,7 +36,7 @@
 
  nav ul li a{
     text-decoration: none;
-    color: black;
+    /* color: black; */
     border: 2px solid white;
     border-radius:200px;
     border-right-width: 6px;
