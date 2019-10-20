@@ -45,3 +45,19 @@ below are the steps involved:
   * $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
   * Press Enter. Your local clone will be created.
+
+  ## BDD
+   >>Functionality
+    This site is greatly responsive and realiable.
+   >>Main purpose
+   The main purpose of the project is more of, to make myself as a developer to the outside world,
+   and it does this is... it has a brief description about my education life which is real essential and then in the "portfolio page" are the image links to my websites, with this you get the live view of my websites.
+
+  ## Technologies used to build
+   >>Hardware
+    * laptop
+   >>Software
+    * ubuntu
+   >>Languages involved
+     * HTML
+     * CSS
