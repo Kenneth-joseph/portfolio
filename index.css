@@ -262,12 +262,24 @@ padding:15px;
     color: white;
     font-size: 18px;
     border-right: 1px dotted white;
-    height:fit-content;
-    /* border-image: 0 ; */
-    
-}
-.container1 img #click{
-    
-    /* color:black; */
-}
+    height:fit-content;}
+
+/*footer*/
  
+#footer{
+    
+    margin-top: 10px;
+    display:flex;
+    justify-content:space-evenly;
+  
+}
+.container2{
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+    margin-top: 100px;
+}
+   
+.container2 h5{
+    text-decoration-line: underline;
+}
