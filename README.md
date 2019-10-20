@@ -36,7 +36,8 @@
   >> https://github.com/Kenneth-joseph/portfolio.git
 you can make *a clone*, the code and try and run them on your own making all the edition you need, without intefering with the main project
 below are the steps involved:
-  *Open Terminal.
+
+  * Open Terminal.
 
   * Change the current working directory to the location where you want the cloned directory to be made.
 
@@ -55,9 +56,9 @@ below are the steps involved:
 
   ## Technologies used to build
    >> ##### Hardware
-    - laptop
+    * laptop
    >> ##### Software
-     -ubuntu
+    * ubuntu
    >> ##### Languages involved
-     - HTML
-     - CSS
+     * HTML
+     * CSS
