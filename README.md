@@ -38,10 +38,10 @@ you can make *a clone*, the code and try and run them on your own making all the
 below are the steps involved:
   *Open Terminal.
 
-  *Change the current working directory to the location where you want the cloned directory to be made.
+  * Change the current working directory to the location where you want the cloned directory to be made.
 
-  *Type git clone, and then paste the URL given up there as a link.
+  * Type git clone, and then paste the URL given up there as a link.
 
-  *$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  * $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-  *Press Enter. Your local clone will be created.
+  * Press Enter. Your local clone will be created.
