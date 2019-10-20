@@ -55,9 +55,9 @@ below are the steps involved:
 
   ## Technologies used to build
    >> ##### Hardware
-    * laptop
+    - laptop
    >> ##### Software
-    * ubuntu
+     -ubuntu
    >> ##### Languages involved
-     * HTML
-     * CSS
+     - HTML
+     - CSS
