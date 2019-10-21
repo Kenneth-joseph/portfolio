@@ -67,3 +67,6 @@ below are the steps involved:
 
   ## Contrbuting to Changes
   If at all you might be interested in helping me make changes in my work please do make pull request.
+  follow the procedure below:
+   * On GitHub, navigate to the main page of the repository.
+   * In the "Branch" menu, choose the branch that contains your commits.
