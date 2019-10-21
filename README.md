@@ -65,8 +65,13 @@ below are the steps involved:
   ## Known Bugs   
   Apparently the website isn't fully designed especially the home page and the portfolio page, since i still want to enhance it and make it more responsive,to make it much easier for the user to access and navigate, so generally it still under full development.
 
-  ## Contrbuting to Changes
+  ## Contributing to Changes
   If at all you might be interested in helping me make changes in my work please do make pull request.
   follow the procedure below:
    * On GitHub, navigate to the main page of the repository.
    * In the "Branch" menu, choose the branch that contains your commits.
+   * To the right of the Branch menu, click New pull request.
+   * Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic   branch you made your changes in.
+
+   * Type a title and description for your pull request.
+   * To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull   Request, then click Draft Pull Request. For more information about draft pull requests
