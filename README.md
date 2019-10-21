@@ -27,11 +27,11 @@
    >>> ##### Who it serves
  Apparrently my project is directed to my clients whom wants to know more about me, interms of my work .
  
- ## Access the site
+ ## Access The Site
   To access the site click on this link
   click [myportfolio](https://kenneth-joseph.github.io/portfolio/)
 
- ## Project setup
+ ## Project Setup
  As a developer will make it real esier for you to use this site.. , by using this link :
   >> https://github.com/Kenneth-joseph/portfolio.git
 you can make *a clone*, the code and try and run them on your own making all the edition you need, without intefering with the main project
@@ -62,3 +62,8 @@ below are the steps involved:
    >> ##### Languages involved
      HTML
      CSS
+  ## Known Bugs   
+  Apparently the website isn't fully designed especially the home page and the portfolio page, since i still want to enhance it and make it more responsive,to make it much easier for the user to access and navigate, so generally it still under full development.
+
+  ## Contrbuting to Changes
+  If at all you might be interested in helping me make changes in my work please do make pull request.
