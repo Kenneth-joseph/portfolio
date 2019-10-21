@@ -75,3 +75,12 @@ below are the steps involved:
 
    * Type a title and description for your pull request.
    * To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull   Request, then click Draft Pull Request. For more information about draft pull requests
+
+   ## Contact details
+   To find me, please contact me using the infos provided down here
+   ##### phone number
+    >> 0708037786
+    ###### email
+    >> josephochieng812@gmail.com
+
+    ## License
