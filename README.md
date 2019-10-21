@@ -78,9 +78,9 @@ below are the steps involved:
 
    ## Contact details
    To find me, please contact me using the infos provided down here
-   ##### phone number
-    >> 0708037786
-    ###### email
-    >> josephochieng812@gmail.com
+  >> ##### phone number
+     0708037786
+   >> ##### email
+    josephochieng812@gmail.com
 
     ## License
